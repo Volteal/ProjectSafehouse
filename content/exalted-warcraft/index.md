@@ -24,7 +24,7 @@ cover:
 
 ## Why adapt Exalted Essence?
 
-In all honesty? I wanted a somewhat more complex system to use while running guild events. 
+In all honesty? I wanted a somewhat more complex system to use while running guild events. ad
 
 ## System Overview
 
