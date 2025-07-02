@@ -5,7 +5,7 @@ tags: ["first"]
 author: "Me"
 showToc: true
 TocOpen: true
-draft: true
+draft: false
 hidemeta: true
 comments: false
 description: "Desc Text."
