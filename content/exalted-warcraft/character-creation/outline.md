@@ -1,5 +1,5 @@
 ---
-title: "Character Creation"
+title: "Character Creation Outline"
 date: 2025-07-02T19:52:52+02:00
 weight: 2
 author: "Angela Ridder"
@@ -22,9 +22,8 @@ cover:
 - Every character starts with a concept. Ours are heroic mortals by the standards of Azeroth. We should all have a good grasp of our characters. A small sentence or two is enough for now.
   - ***Example**: A smuggler turned hero fighting against the Scarlet Crusade, or a savvy diplomat working to further the schemes of their organization.*.
 - Once you have your concept you proceed to pick an **Exalt type** and (if applicable) **Caste** or **Aspect**. This is a fully out of character choice, pick the type best suited to your character and note it on the character sheet along with the **Anima Effects**.
-  - ***Example**: Volteal is an expert martial artist, Cleric of Elune, savy diplomat. He is a Solar Exalt of the Zenith Caste.*
 
-`Use Endaril as an example here.`
+`Volteal is an expert martial artist, Cleric of Elune, and skilled diplomat. He fits most as a Solar Exalt of the Zenith Caste.`
 
 ### Step 2: Attributes
 Your character likely has a preferred approach to problems. Tge three Attributes: Force, Finesse, and Fortitude, represent those approaches. On the [Reference Sheet](/LINK/) you will find each Attribute described in detail, but in a nutshell: 
