@@ -71,7 +71,7 @@ params:
       - name: About Me
         url: about-me
       - name: My Projects
-        url: projects
+        url: my-projects
 
   # home-info mode
 # homeInfoParams:
@@ -125,13 +125,13 @@ menu:
       name: Blog
       url: /posts/
       weight: 20
-    - identifier: projects
-      name: Projects
-      url: /projects/
+    - identifier: my-projects
+      name: My Projects
+      url: /my-projects/
       weight: 30
     - identifier: exalted-warcraft
       name: Exalted Warcraft
-      url: /exalted-warcraft/system-overview
+      url: /exalted-warcraft/
       weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

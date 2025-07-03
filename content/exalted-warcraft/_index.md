@@ -1,0 +1,3 @@
+---
+title: "Exalted Warcraft Index"
+---
