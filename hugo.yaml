@@ -95,9 +95,9 @@ params:
       SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
+    hidden: false # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hiddenInSingle: false # hide on single page
 
 #  editPost:
 #    URL: "https://github.com/<path_to_repo>/content"
@@ -131,7 +131,7 @@ menu:
       weight: 30
     - identifier: exalted-warcraft
       name: Exalted Warcraft
-      url: /exalted-warcraft/
+      url: /exalted-warcraft/system-overview
       weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
