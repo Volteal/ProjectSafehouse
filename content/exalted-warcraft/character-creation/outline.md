@@ -18,6 +18,7 @@ cover:
     hidden: false
 ---
 ## Character Creation Outline
+##### Updated: XX
 ### Step 1: Concept
 - Every character starts with a concept. Ours are heroic mortals by the standards of Azeroth. We should all have a good grasp of our characters. A small sentence or two is enough for now.
   - ***Example**: A smuggler turned hero fighting against the Scarlet Crusade, or a savvy diplomat working to further the schemes of their organization.*.
